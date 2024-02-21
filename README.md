@@ -9,7 +9,7 @@ Redux for State Management: Implements Redux for efficient and predictable state
 
 HOME PAGE
 
-<img src="(https://github.com/Graeberj/deliveroo-too/assets/73848091/db113de2-9808-466f-9403-c9264664ed38" width="100">
+<img src="(https://github.com/Graeberj/deliveroo-too/assets/73848091/db113de2-9808-466f-9403-c9264664ed38" width="100"/>
 RESTAURANT PAGE
 ![Screenshot_20240221_151935_Expo Go](https://github.com/Graeberj/deliveroo-too/assets/73848091/95174e84-ccec-4b5d-a142-5e715bc00e36)
 RESTAURANT PAGE WITH DISHES SELECTED
